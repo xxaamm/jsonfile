@@ -1,4 +1,9 @@
-"schedule": [
+{
+  "schedule": [
     { "id": 18, "from": 6, "to": 8, "no": 8, "enabled": 1 },
     { "id": 20, "from": 6, "to": 8, "no": 8, "enabled": 1 }
-]
+  ],
+  "test": {
+     "name": "json" 
+  }
+}
